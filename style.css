@@ -10,3 +10,13 @@ body {
     font-style: normal;
     font-variation-settings: "wdth" 100;
 }
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 48px; /* add padding for spacing from container edges */
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
