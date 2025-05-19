@@ -34,3 +34,13 @@ body {
     display: flex;
     gap: 16px;
 }
+
+ul {
+    list-style-type: none;
+    padding: 12px;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
