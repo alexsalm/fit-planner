@@ -29,3 +29,8 @@ body {
     gap: 12px;
     align-items: center;
 }
+
+.right-links {
+    display: flex;
+    gap: 16px;
+}
