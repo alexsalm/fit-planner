@@ -44,3 +44,9 @@ a {
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
