@@ -84,3 +84,7 @@ a {
     margin-top: 12px;
     border-radius: 15px;
 }
+
+.hero-image {
+    padding: 48px;
+}
