@@ -112,3 +112,12 @@ a {
     justify-content: center;
     width: 275px;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 120px;
+}
