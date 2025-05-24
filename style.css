@@ -133,3 +133,33 @@ a {
     margin-top: 16px;
     align-self: center;
 }
+
+.call-action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #3882F6;
+    margin: 75px 100px;
+    padding: 24px 32px;
+    border-radius: 10px;
+}
+
+.sign-up-section {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.sign-up-subtext {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
